@@ -1,6 +1,5 @@
 ## Hi there 👋
-Ich bin Milena und Studentin im Bereich IT/Design. Momentan lerne ich noch Programmieren und bin eine ziemliche Anfängerin darin. Ich fokusiere mich auf die Programmiersprache Java, aber C++ und Python finde ich auch interessant zum Lernen. Meine Motivation liegt im game development, was ich später auch gerne beruflich machen würde. 
-
+I'm Milena and a student in the IT/Design industry. I'm new to programming and a complete beginner to it. Currently I'm trying to learn Java, but I'm also interested in C++ and Python. My motivation lies in game development and I hope to one day have a career in that industry. 
 <!--
 **milenskii-beep/milenskii-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
